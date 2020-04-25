@@ -12,3 +12,8 @@
 - [Optional Chaining](https://github.com/tc39/proposal-optional-chaining)
 - [Nullish coalescing Operator](https://github.com/tc39/proposal-nullish-coalescing)
 - [Promise.allSettled](https://github.com/tc39/proposal-promise-allSettled)
+
+## Node Packages
+
+- [Module Alias](https://www.npmjs.com/package/module-alias)
+- [Husky](https://www.npmjs.com/package/husky)
