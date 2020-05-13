@@ -17,3 +17,8 @@
 
 - [Module Alias](https://www.npmjs.com/package/module-alias)
 - [Husky](https://www.npmjs.com/package/husky)
+
+## React Resources
+- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [React Advanced Concepts](https://reactresources.com/topics/advanced-concepts)
+- [Dan Abramov's Blog](https://overreacted.io)
