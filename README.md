@@ -17,6 +17,7 @@
 
 - [Module Alias](https://www.npmjs.com/package/module-alias)
 - [Husky](https://www.npmjs.com/package/husky)
+- [node-notifier](https://www.npmjs.com/package/node-notifier)
 
 ## React Resources
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)
